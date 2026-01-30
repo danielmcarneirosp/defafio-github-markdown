@@ -34,5 +34,10 @@ Agora tenho esse desafio de Projeto para Explorar e Colaborar nesse Projeto.
    [x] Ambos devem fazer um clone do repositório em suas máquinas locais.
 
    [x] Realizem alterações, Commits abra issues e Pull Requests.
-   
 
+4. Formatação com Markdown:
+
+   [x] Edite o arquimo README.me em seu respositório.
+
+   [x] Utilize a Linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto.
+   
