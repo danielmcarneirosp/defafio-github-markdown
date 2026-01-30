@@ -2,8 +2,8 @@
 
 ## Explorando Colaboração e Markdown
 
-<p align="center" color="white">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="400px" />          
+<p align="center" >
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="400px" color="white"/>          
 </p>
 
 > DESAFIO
