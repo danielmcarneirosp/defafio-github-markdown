@@ -2,7 +2,7 @@
 
 ## Explorando Colaboração e Markdown
 
-<p align="center">
+<p align="center" color="white">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="400px" />          
 </p>
 
