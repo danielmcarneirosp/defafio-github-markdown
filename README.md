@@ -14,13 +14,14 @@ Agora tenho esse desafio de Projeto para Explorar e Colaborar nesse Projeto.
 
 1. Criar um conta GitHub
 
-  [ ] Essencial para alcançarmos nossos objetivos.
+   [ ] Essencial para alcançarmos nossos objetivos.
 
 2. Criar um Repositório:
 
-  [ ] Crie um novo repostório no GitHub, nomeando-o como "desafio-github-mardown" 
+   [ ] Crie um novo repostório no GitHub, nomeando-o como "desafio-github-mardown" 
 
-  [ ] Adicione um README ao criar o repostório
+   [ ] Adicione um README ao criar o repostório
 
-  [ ] Utilize o Github.dev para editar seu projeto diretamente com o Editor web do GitHub
+   [ ] Utilize o Github.dev para editar seu projeto diretamente com o Editor web do GitHub
+   
 
