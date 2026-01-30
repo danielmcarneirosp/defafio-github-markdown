@@ -7,12 +7,13 @@
 </p>
 
 > DESAFIO
+
 Olá meu caro visitante 👫 Sejam Bem-vindo(as) ao nosso desafio de Projeto. A minha jornada até aqui tem sido de grande aprendizado sobre Markdown.
 Agora tenho esse desafio de Projeto para Explorar e Colaborar nesse Projeto.
 
 > OBJETIVOS:
 
-1. Criar um conta GitHub
+1. Criar um conta GitHub:
 
    [x] Essencial para alcançarmos nossos objetivos.
 
@@ -25,6 +26,13 @@ Agora tenho esse desafio de Projeto para Explorar e Colaborar nesse Projeto.
    [x] Utilize o Github.dev para editar seu projeto diretamente com o Editor web do GitHub
 
    [x] Lembre-se o repositório deve ser Público.
-   
 
+3. Colaboração:
+
+   [x] Adicione um colaborador ao seu repositório.
+
+   [x] Ambos devem fazer um clone do repositório em suas máquinas locais.
+
+   [x] Realizem alterações, Commits abra issues e Pull Requests.
+   
 
